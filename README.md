@@ -1,3 +1,3 @@
 # fileDownloader
 
-https://codeedocc.github.io/fileDownloader/imdex.html
+https://codeedocc.github.io/fileDownloader/index.html
